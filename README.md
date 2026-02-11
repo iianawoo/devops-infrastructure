@@ -42,3 +42,9 @@ Conflict branch test
 ## CI Status
 
 This project uses GitHub Actions for continuous integration.
+## Deployment Instructions
+
+1. Build Docker image
+2. Apply Terraform
+3. Deploy to Kubernetes
+4. Monitor with Prometheus
