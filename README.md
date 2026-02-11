@@ -36,4 +36,5 @@ terraform apply
 GitHub Actions automatically runs on push and pull requests.
 
 ## Author
-Aiana Kutmanova
+Aiana K.
+
