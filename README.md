@@ -39,3 +39,6 @@ GitHub Actions automatically runs on push and pull requests.
 Aiana K.
 
 Conflict branch test
+## CI Status
+
+This project uses GitHub Actions for continuous integration.
